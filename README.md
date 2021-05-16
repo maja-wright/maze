@@ -11,7 +11,7 @@ Player controls the ball with the "WASD" keys on the keyboard. Goal is to get th
 
 ![maze2](https://user-images.githubusercontent.com/67807290/118383657-cba10400-b5b4-11eb-891e-54c688f4b81c.jpg)
 
-## YOU CAN ALWAYS CHOOSE TO START OVER WITH THE EASY MAZE OR CONTINUE GOING TO THE HARDER LEVEL
+## You can always choose to start over with the easy maze or continue going to the harder and harder level 
 
 ![maze3](https://user-images.githubusercontent.com/67807290/118383658-cd6ac780-b5b4-11eb-9518-84fe3dc0d8c8.jpg)
 
