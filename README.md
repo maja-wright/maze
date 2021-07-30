@@ -3,6 +3,8 @@ Guide the ball through the maze until you reach a goal.
 
 Player controls the ball with the "WASD" keys on the keyboard. Goal is to get the ball to touch the green square. Each level is getting progressively harder and harder.
 
+[Play here](https://ecstatic-visvesvaraya-8f6ba4.netlify.app)
+
 ## LOADING PAGE - EASY
 
 ![maze1](https://user-images.githubusercontent.com/67807290/118383655-c9d74080-b5b4-11eb-8359-57775987dbc1.jpg)
